@@ -2,7 +2,9 @@
 Paper archive for "Optimal Health Investment: An Ounce of Prevention at Half Price?"
 
 Matthew N. White
+
 (mnwecon@udel.edu)
+
 July 31, 2018
 
 Code replication instructions:
@@ -13,7 +15,9 @@ Code replication instructions:
 2) At a command prompt, install additional packages by typing:
 
 conda install joblib
+
 conda install dill
+
 pip install opencl4py
 
 On Windows, you might need to open the Anaconda prompt.
