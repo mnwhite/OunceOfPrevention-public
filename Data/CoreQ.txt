@@ -1,0 +1,310 @@
+Text	Name	2010	2008	2006	2004	2002	2000	1998	1996	1995	10label	08label	06label	04label	02label	00label	98label	96label	95label	
+Household ID number (original)	HHID	HHID	HHID	HHID	HHID	HHID	HHID	HHID	HHID	HHID	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Sub-household ID number	SUBHH	SUBHH	SUBHH	SUBHH	SUBHH	SUBHH	SUBHH	SUBHH	SUBHH	SUBHH	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Person number	PN	PN	PN	PN	PN	PN	PN	PN	PN	PN	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Covered by Medicare now?	HaveMedicareA	N001	N001	N001	N001	N001	6238	5866	5133	5144	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have Medicare Part B?	HaveMedicareB	N004	N004	N004	N004	N004	6240	5867	5134	5145	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Covered by Medicaid recently?	HadMedicaid	N005	N005	N005	N005	N005	6241	5868	5135	5155	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Covered by Medicaid now?	HaveMedicaid	N006	N006	N006	N006	N006	6242	5869	5136	5158	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Covered by military plan now?	HaveChampus	N007	N007	N007	N007	N007	6251	5878	5145	5175	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Medicare by HMO?	MedicareByHMO	N009	N009	N009	N009	N009	6254	5881	5148	5183	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+HMO cover drugs?	HMOCoverDrugs	N351	N351	N351	N351	N/A	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+HMO premiums amount	HMOPremAmt	N014	N014	N014	N014	N014	6258	5885	5152	5193	Value3	Value3	Value3	Value3	Value4	Value4	Value4	Value4	Value4	
+HMO premiums minimum	HMOPremMin	N015	N015	N015	N015	N015	N/A	N/A	N/A	N/A	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	
+HMO premiums maximum	HMOPremMax	N016	N016	N016	N016	N016	N/A	N/A	N/A	N/A	Value4	Value4	Value8	Value4	Value4	Value4	Value4	Value4	Value4	
+HMO premiums period	HMOPremPer	N018	N018	N018	N018	N018	6259	5886	5153	5194	Period1	Period1	Period1	Period1	Period1	Period1	Period1	Period1	Period1	
+Have Medicare Part D?	HaveMedicareD	N352	N352	N352	N/A	N/A	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have other prescription coverage? 	HaveDrugCover	N417	N417	N/A	N/A	N/A	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+How is Part D paid for?	HowPartDPaid	N423	N423	N/A	N/A	N/A	N/A	N/A	N/A	N/A	PartDPay	PartDPay	PartDPay	PartDPay	PartDPay	PartDPay	PartDPay	PartDPay	PartDPay	
+Soc Sec deduction for Part D	PartDSSDeduct	N424	N424	N/A	N/A	N/A	N/A	N/A	N/A	N/A	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	
+Part D premiums amount	PartDPremAmt	N404	N404	N404	N/A	N/A	N/A	N/A	N/A	N/A	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	
+Part D premiums minimum	PartDPremMin	N405	N405	N405	N/A	N/A	N/A	N/A	N/A	N/A	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	
+Part D premiums maximum	PartPremMax	N406	N406	N406	N/A	N/A	N/A	N/A	N/A	N/A	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	
+Received drug coverage extra help?	PartDExtraHelp	N427	N427	N/A	N/A	N/A	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Number of other insurance plans	NumPrivPlans	N023	N023	N023	N023	N023	N/A	N/A	N/A	5215	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	
+Is plan 1 or Medicare primary?	Plan1Primary	N025_1	N025_1	N025_1	N025_1	N025_1	N/A	N/A	N/A	N/A	IsPrimary	IsPrimary	IsPrimary	IsPrimary	IsPrimary	IsPrimary	IsPrimary	IsPrimary	IsPrimary	
+Does plan 1 help with prescriptions?	Plan1PayRX	N032_1	N032_1	N032_1	N032_1	N032_1	6285	5912	5179_1	5252	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Is plan 1 from current employer?	Plan1CurEmp	N033_1	N033_1	N033_1	N033_1	N033_1	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	* Coded differently 1996-2000
+Is plan 1 from former employer?	Plan1ForEmp	N034_1	N034_1	N034_1	N034_1	N034_1	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Is plan 1 from spouses cur employer?	Plan1CurSpEmp	N035_1	N035_1	N035_1	N035_1	N035_1	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Is plan 1 from spouses fmr employer?	Plan1ForSpEmp	N036_1	N036_1	N036_1	N036_1	N036_1	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+How plan 1 was purchased	Plan1HowPurch	N037_1	N037_1	N037_1	N037_1	N037_1	6269	5896	5163_1	5225M1	WherePurch	WherePurch	WherePurch	WherePurch	WherePurch	HowObtain	HowObtain	HowObtain	HowObtain	
+Pay all/some/none premiums on plan 1	Plan1PremPay	N039_1	N039_1	N039_1	N039_1	N039_1	6272	5899	5166_1	5226	AllSomeNone	AllSomeNone	AllSomeNone	AllSomeNone	AllSomeNone	AllSomeNone	AllSomeNone	AllSomeNone	AllSomeNone	
+Premiums paid for plan 1 amount	Plan1PremAmt	N040_1	N040_1	N040_1	N040_1	N040_1	6273	5900	5167_1	5227	Value5	Value5	Value5	Value5	Value3	Value3	Value3	Value3	Value3	
+Premiums paid period (2000 and before)	Plan1PremPer	N/A	N/A	N/A	N/A	N/A	6274	5901	5168_1	5228	N/A	N/A	N/A	N/A	N/A	Period2	Period2	Period2	Period3	
+Premiums paid for plan 1 minimum	Plan1PremMin	N041_1	N041_1	N041_1	N041_1	N041_1	N/A	N/A	N/A	N/A	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	
+Premiums paid for plan 1 maximum	Plan1PremMax	N042_1	N042_1	N042_1	N042_1	N042_1	N/A	N/A	N/A	N/A	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	
+Plan 1 is Medigap (2000 and before)	Plan1Medigap	N/A	N/A	N/A	N/A	N/A	6276	5903	5170_1	N/A	N/A	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	
+Who else covered by plan 1 (first)?	Plan1WhoCoverA	N049_1A	N049_1A	N049_1A	N049_1a	N049_1A	6279M1	5906M1	5173011	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Who else covered by plan 1 (second)?	Plan1WhoCoverB	N049_1B	N049_1B	N049_1B	N049_1b	N049_1B	6279M2	5906M2	5173012	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Who else covered by plan 1 (third)?	Plan1WhoCoverC	N049_1C	N049_1C	N049_1C	N049_1c	N049_1C	6279M3	5906M3	5173013	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Is plan 1 an HMO?	Plan1IsHMO	N052_1	N052_1	N052_1	N052_1	N052_1	6280	5907	5174_1	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Plan 1 have a doctor network?	Plan1DocNetwork	N055_1	N055_1	N055_1	N055_1	N055_1	6281	5908	5175_1	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Plan 1 pay for outside network care?	Plan1PayOutNtwk	N056_1	N056_1	N056_1	N056_1	N056_1	6282	5909	5176_1	N/A	YesNoRef	YesNoRef	YesNoRef	YesNoRef	YesNoRef	YesNoRef	YesNoRef	YesNoRef	YesNoRef	
+How plan 1 copays on doc visits if HMO	Plan1HowPayDoc	N/A	N/A	N/A	N/A	N/A	6283	5910	5177_1	N/A	N/A	N/A	N/A	N/A	N/A	DocPay	DocPay	DocPay	DocPay	
+Does plan 2 help with prescriptions?	Plan2PayRX	N032_2	N032_2	N032_2	N032_2	N032_2	6318	5944	5179_2	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Is plan 2 from current employer?	Plan2CurEmp	N033_2	N033_2	N033_2	N033_2	N033_2	N/A	N/A	5163_2	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Is plan 2 from former employer?	Plan2ForEmp	N034_2	N034_2	N034_2	N034_2	N034_2	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Is plan 2 from spouses cur employer?	Plan2CurSpEmp	N035_2	N035_2	N035_2	N035_2	N035_2	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Is plan 2 from spouses fmr employer?	Plan2ForSpEmp	N036_2	N036_2	N036_2	N036_2	N036_2	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+How plan 2 was purchased	Plan2HowPurch	N037_2	N037_2	N037_2	N037_2	N037_2	N/A	N/A	N/A	5242M1	WherePurch	WherePurch	WherePurch	WherePurch	WherePurch	WherePurch	WherePurch	WherePurch	WherePurch	
+Pay all/some/none premiums on plan 2	Plan2PremPay	N039_2	N039_2	N039_2	N039_2	N039_2	6314	5940	5166_2	5243	AllSomeNone	AllSomeNone	AllSomeNone	AllSomeNone	AllSomeNone	AllSomeNone	AllSomeNone	AllSomeNone	AllSomeNone	
+Premiums paid for plan 2 amount	Plan2PremAmt	N040_2	N040_2	N040_2	N040_2	N040_2	6315	5941	5167_2	5244	Value5	Value5	Value5	Value4	Value4	Value4	Value4	Value4	Value4	
+Premiums paid period (2000 and before)	Plan2PremPer	N/A	N/A	N/A	N/A	N/A	6316	5942	5168_2	5245	N/A	N/A	N/A	N/A	N/A	Period2	Period2	Period2	Period2	
+Premiums paid for plan 2 minimum	Plan2PremMin	N041_2	N041_2	N041_2	N041_2	N041_2	N/A	N/A	N/A	N/A	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	
+Premiums paid for plan 2 maximum	Plan2PremMax	N042_2	N042_2	N042_2	N042_2	N042_2	N/A	N/A	N/A	N/A	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	
+Plan 2 is Medigap (2000 and before)	Plan2Medigap	N/A	N/A	N/A	N/A	N/A	6313	5939	5170_2	N/A	N/A	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	
+Who else covered by plan 2 (first)?	Plan2WhoCoverA	N049_2A	N049_2A	N049_2A	N049_2a	N049_2A	N/A	N/A	5173001	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Who else covered by plan 2 (second)?	Plan2WhoCoverB	N049_2B	N049_2B	N049_2B	N049_2b	N049_2B	N/A	N/A	5173002	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Who else covered by plan 2 (third)?	Plan2WhoCoverC	N049_2C	N049_2C	N049_2C	N049_2c	N049_2C	N/A	N/A	5173003	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Is plan 2 an HMO?	Plan2IsHMO	N052_2	N052_2	N052_2	N052_2	N052_2	N/A	N/A	5174_2	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+plan 2 have a doctor network?	Plan2DocNetwork	N055_2	N055_2	N055_2	N055_2	N055_2	N/A	N/A	5175_2	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+plan 2 pay for outside network care?	Plan2PayOutNtwk	N056_2	N056_2	N056_2	N056_2	N056_2	N/A	N/A	5176_2	N/A	YesNoRef	YesNoRef	YesNoRef	YesNoRef	YesNoRef	YesNoRef	YesNoRef	YesNoRef	YesNoRef	
+Total number of insurance plans	TotalInsPlans	N090	N090	N090	N090	N090	N/A	N/A	5177_2	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Have long term care insurance?	HaveLTCIns	N071	N071	N071	N071	N071	6393	5999	5266	5263	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Which plan has LTC?	WhichPlanLTC	N073	N073	N073	N073	N073	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Does LTC insurance cover spouse?	LTCCoverSpouse	N238	N238	N238	N238	N238	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Premium for LTC insurance amount	LTCPremAmt	N079	N079	N079	N079	N079	6397	6003	5270	5267	Value6	Value6	Value6	Value5	Value5	Value5	Value5	Value5	Value5	
+Premium for LTC insurance minimum	LTCPremMin	N080	N080	N080	N080	N080	N/A	N/A	N/A	N/A	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	
+Premium for LTC insurance maximum	LTCPremMax	N081	N081	N081	N081	N081	N/A	N/A	N/A	N/A	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	
+Premium for LTC insurance period	LTCPremPer	N083	N083	N083	N083	N083	6398	6004	5271	5268	Period1	Period1	Period1	Period1	Period1	Period1	Period1	Period1	Period3	
+Ever without health insurance?	EverWithoutIns	N091	N091	N091	N091	N091	6357	5971	5238	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Confirm no health insurance now?	NoHealthInsNow	N342	N342	N342	N342	N/A	6366	5980	5247	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have you stayed in hospital overnight?	StayInHosp	N099	N099	N099	N099	N099	2567	2295	1770	1664	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Number of stays in hospital	HospNumStays	N100	N100	N100	N100	N100	2568	2296	1771	1665	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	
+Number of nights spent in hospital	HospNumNights	N101	N101	N101	N101	N101	2569	2297	1772	1666	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	
+How much of hosp stay covered by ins?	HospCoverByIns	N102	N102	N102	N102	N102	2570	2298	1775	1669	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	
+Out of pocket hospital bills amount	HospOOPAmt	N106	N106	N106	N106	N106	N/A	N/A	N/A	N/A	Value7	Value7	Value7	Value7	Value5	Value5	Value5	Value5	Value5	
+Out of pocket hospital bills minimum	HospOOPMin	N107	N107	N107	N107	N107	N/A	N/A	N/A	N/A	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	
+Out of pocket hospital bills maximum	HospOOPMax	N108	N108	N108	N108	N108	N/A	N/A	N/A	N/A	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	
+Expect ins to cover hospital stay?	HospExpectInsCov	N110	N110	N110	N110	N110	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Ever stay in long term care?	StayInLTC	N114	N114	N114	N114	N114	2571	2299	1776	1681	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Number of stays in long term care	LTCNumStays	N115	N115	N115	N115	N115	2572	2300	1777	1682	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	
+Number of nights spent in LTC	LTCNumNights	N116	N116	N116	N116	N116	2573	2301	1778	1683	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	
+Number of months spent in LTC	LTCNumMonths	N117	N117	N117	N117	N117	2574	2302	1779	1684	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	
+How much of LTC stay covered by ins?	LTCCoverByIns	N118	N118	N118	N118	N118	2576	2304	1781	1686	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	
+Out of pocket LTC bills amount	LTCOOPAmt	N119	N119	N119	N119	N119	2577	2305	1783	1688	Value7	Value7	Value7	Value7	Value7	Value7	Value7	Value7	Value7	*this includes hospital stay for 1996-2000
+Out of pocket LTC bills minimum	LTCOOPMin	N120	N120	N120	N120	N120	N/A	N/A	N/A	N/A	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	
+Out of pocket LTC bills maximum	LTCOOPMax	N121	N121	N121	N121	N121	N/A	N/A	N/A	N/A	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	
+Hosp/LTC more than 5000?	LTCOOPgt5000	N/A	N/A	N/A	N/A	N/A	2578	2306	1787	1692	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Hosp/LTC more than 10000?	LTCOOPgt10000	N/A	N/A	N/A	N/A	N/A	2579	2307	1784	1689	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Hosp/LTC more than 20000?	LTCOOPgt20000	N/A	N/A	N/A	N/A	N/A	2580	2308	1785	1690	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Hosp/LTC more than 50000?	LTCOOPgt50000	N/A	N/A	N/A	N/A	N/A	2581	2309	1786	1691	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Hosp/LTC more than 10000?	LTCOOPgt10000a	N/A	N/A	N/A	N/A	N/A	2582	2310	N/A	N/A	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Hosp/LTC more than 5000?	LTCOOPgt5000a	N/A	N/A	N/A	N/A	N/A	2583	2311	N/A	N/A	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Hosp/LTC more than 500?	LTCOOPgt500	N/A	N/A	N/A	N/A	N/A	2584	2312	1788	1693	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Had outpatient surgery?	HadOutSurg	N134	N134	N134	N134	N134	2610	2333	1795	1713	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+How much of surgery covered by ins?	OutSurgCoverByIns	N135	N135	N135	N135	N135	2611	2334	1798	1716	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	
+Out of pocket surgery costs amount	OutSurgOOPAmt	N139	N139	N139	N139	N139	2614	2337	1804	1732	Value7	Value7	Value7	Value7	Value7	Value7	Value7	Value7	Value7	* 1996-2000 includes dental & doc visits
+Out of pocket surgery costs minimum	OutSurgOOPMin	N140	N140	N140	N140	N140	N/A	N/A	N/A	N/A	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	
+Out of pocket surgery costs maximum	OutSurgOOPMax	N141	N141	N141	N141	N141	N/A	N/A	N/A	N/A	Value8	Value8	Value8	Value8	Value8	Value8	Value8	Value8	Value8	
+Surg/dental/doc more than 500?	SgDenDocgt500	N/A	N/A	N/A	N/A	N/A	2615	2338	N/A	1736	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Surg/dental/doc more than 1000?	SgDenDocgt1000	N/A	N/A	N/A	N/A	N/A	2616	2339	1805	1733	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Surg/dental/doc more than 5000?	SgDenDocgt5000	N/A	N/A	N/A	N/A	N/A	2617	2340	1806	1734	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Surg/dental/doc more than 20000?	SgDenDocgt20000	N/A	N/A	N/A	N/A	N/A	2618	2341	1807	1735	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Surg/dental/doc more than 1000?	SgDenDocgt1000a	N/A	N/A	N/A	N/A	N/A	2619	2342	N/A	N/A	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Surg/dental/doc more than 500?	SgDenDocgt500a	N/A	N/A	N/A	N/A	N/A	2620	2343	1808	N/A	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Surg/dental/doc more than 200?	SgDenDocgt200	N/A	N/A	N/A	N/A	N/A	2621	2344	1809	1737	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Expect ins to cover outpatient surgery?	OutSurgExpectInsCov	N143	N143	N143	N143	N143	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Number other doctor consultations	DocVisNum	N147	N147	N147	N147	N147	2603	2331	1790	1698	YesNo	YesNo	Value3	Value3	Value3	Value3	Value3	Value3	Value3	
+Doctor visits relative to 20?	DocVisgt20	N148	N148	N148	N148	N148	2604	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Doctor visits relative to 5?	DocVisgt5	N149	N149	N149	N149	N149	2605	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Doctor visits relative to 1?	DocVisgt1	N150	N150	N150	N150	N150	2606	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Doctor visits relative to 50?	DocVisgt50	N151	N151	N151	N151	N151	2607	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+How much of doc visits covered by ins?	DocVisCoverByIns	N152	N152	N152	N152	N152	2609	2332	1793	1701	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	
+Out of pocket doc visits amount	DocVisOOPAmt	N156	N156	N156	N156	N156	N/A	N/A	N/A	N/A	Value7	Value7	Value7	Value6	Value6	Value6	Value6	Value6	Value6	
+Out of pocket doc visits minimum	DocVisOOPMin	N157	N157	N157	N157	N157	N/A	N/A	N/A	N/A	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	
+Out of pocket doc visits maximum	DocVisOOPMax	N158	N158	N158	N158	N158	N/A	N/A	N/A	N/A	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	
+Expect ins to cover doc visits?	DocVisExpectInsCov	N160	N160	N160	N160	N160	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Seen dentist?	DentistVisit	N164	N164	N164	N164	N164	2612	2335	1800	1728	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+How much of dentist covered by ins?	DentistCoverByIns	N165	N165	N165	N165	N165	2613	2336	1803	1731	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	
+Out of pocket dental bills amount	DentistOOPAmt	N168	N168	N168	N168	N168	N/A	N/A	N/A	N/A	Value7	Value7	Value7	Value7	Value7	Value7	Value7	Value7	Value7	
+Out of pocket dental bills minimum	DentistOOPMin	N169	N169	N169	N169	N169	N/A	N/A	N/A	N/A	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	
+Out of pocket dental bills maximum	DentistOOPMax	N170	N170	N170	N170	N170	N/A	N/A	N/A	N/A	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	
+Expect ins to cover dentist bills?	DentistExpectInsCov	N/A	N172	N172	N172	N172	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Regularly take prescription drugs?	TakeRXDrugs	N175	N175	N175	N175	N175	2622	2345	1811	1744	YesNoRX	YesNoRX	YesNoRX	YesNoRX	YesNoRX	YesNoRX	YesNoRX	YesNoRX	YesNoRX	
+Take drugs for cholesterol?	TakeRX4Chol	N360	N360	N360	N/A	N/A	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Take drugs for muscle/joint pain?	TakeRX4MusPain	N361	N361	N361	N/A	N/A	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Take drugs for breathing problems?	TakeRX4Breath	N362	N362	N362	N/A	N/A	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Take drugs for stomach problems?	TakeRX4Stomach	N363	N363	N363	N/A	N/A	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Take drugs for sleep problems?	TakeRX4Sleep	N364	N364	N364	N/A	N/A	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Take drugs for anxiety/depression?	TakeRX4Anxiety	N365	N365	N365	N/A	N/A	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+How much of drugs covered by ins?	RXCoverByIns	N176	N176	N176	N176	N176	2623	2346	1815	1748	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	
+Out of pocket drugs/month amount	RXOOPAmt	N180	N180	N180	N180	N180	2624	2347	1816	1749	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	
+Out of pocket drugs/month minimum	RXOOPMin	N181	N181	N181	N181	N181	N/A	N/A	N/A	N/A	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	
+Out of pocket drugs/month maximum	RXOOPMax	N182	N182	N182	N182	N182	N/A	N/A	N/A	N/A	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	Value4	
+Prescriptions more than 10?	RXOOPgt10	N/A	N/A	N/A	N/A	N/A	2625	2348	N/A	1753	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Prescriptions more than 20?	RXOOPgt20	N/A	N/A	N/A	N/A	N/A	2626	2349	N/A	1750	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Prescriptions more than 100?	RXOOPgt100	N/A	N/A	N/A	N/A	N/A	2627	2350	1818	1751	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Prescriptions more than 500?	RXOOPgt500	N/A	N/A	N/A	N/A	N/A	2628	2351	1819	1752	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Prescriptions more than 20?	RXOOPgt20a	N/A	N/A	N/A	N/A	N/A	2629	2352	N/A	N/A	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Prescriptions more than 10?	RXOOPgt10a	N/A	N/A	N/A	N/A	N/A	2630	2353	1820	N/A	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Prescriptions more than 5?	RXOOPgt5	N/A	N/A	N/A	N/A	N/A	2631	2354	1821	1754	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Expect drugs to be covered by ins?	RXExpectInsCov	N184	N184	N184	N184	N184	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Received home medical care?	HoMedVisit	N189	N189	N189	N189	N189	2634	2357	1827	1760	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+How much of home care covered by ins?	HoMedCoverByIns	N190	N190	N190	N190	N190	2636	2359	1829	1762	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	InsCoverage	
+Out of pocket home care amount	HoMedOOPAmt	N194	N194	N194	N194	N194	2641	2364	1834	1781	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	* includes special facility care (1996-2000)
+Out of pocket home care minimum	HoMedOOPMin	N195	N195	N195	N195	N195	N/A	N/A	N/A	N/A	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	
+Out of pocket home care maximum	HoMedOOPMax	N196	N196	N196	N196	N196	N/A	N/A	N/A	N/A	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	
+Home care more than 5000?	HoMedOOPgt5000	N/A	N/A	N/A	N/A	N/A	2642	2365	1835	1782	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Home care more than 10000?	HoMedOOPgt10000	N/A	N/A	N/A	N/A	N/A	2643	2366	1836	1783	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Home care more than 20000?	HoMedOOPgt20000	N/A	N/A	N/A	N/A	N/A	2644	2367	1837	1784	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Home care more than 1000?	HoMedOOPgt1000	N/A	N/A	N/A	N/A	N/A	2645	2368	1838	1785	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Home care more than 500?	HoMedOOPgt500	N/A	N/A	N/A	N/A	N/A	2646	2369	1839	1786	N/A	N/A	N/A	N/A	N/A	MoreLess1	MoreLess1	MoreLess1	MoreLess1	
+Expect ins to cover home care?	HoMedExpectInsCov	N198	N198	N198	N198	N198	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Used other special facility?	SpecFacVisit	N202	N202	N202	N202	N202	2638	2361	1831	1774	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Out of pocket special facility amount	SpecFacOOPAmt	N239	N239	N239	N239	N239	N/A	N/A	N/A	N/A	Value7	Value7	Value7	Value5	Value5	Value5	Value5	Value5	Value5	
+Out of pocket special facility minimum	SpecFacOOPMin	N246	N246	N246	N246	N246	N/A	N/A	N/A	N/A	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	
+Out of pocket special facility maximum	SpecFacOOPMax	N247	N247	N247	N247	N247	N/A	N/A	N/A	N/A	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	
+Assigned hospital costs	HospAssigned	N204	N204	N204	N204	N204	N/A	N/A	N/A	N/A	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	
+Assigned long term care  costs	LTCAssigned	N205	N205	N205	N205	N205	2648	2371	N/A	N/A	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	
+Assigned outpatient surgery costs	OutSurgAssigned	N206	N206	N206	N206	N206	2649	2372	N/A	N/A	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	
+Assigned doctor visits costs	DocVisAssigned	N207	N207	N207	N207	N207	N/A	N/A	N/A	N/A	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	
+Assigned dentist costs	DentistAssigned	N208	N208	N208	N208	N208	N/A	N/A	N/A	N/A	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	
+Assigned prescription costs	RXAssigned	N209	N209	N209	N209	N209	2650	2373	N/A	N/A	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	
+Assigned home care costs	HoMedAssigned	N210	N210	N210	N210	N210	2651	2374	N/A	N/A	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	
+Assigned total out of pocket costs	TotalOOPAssigned	N211	N211	N211	N211	N211	2652	2375	N/A	N/A	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	
+Received help with paying med bills?	RecdHelpWithBills	N212	N212	N212	N212	N212	2654	2377	1847	1805	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Med bill help received amount	BillHelpAmt	N215	N215	N215	N215	N215	2658	2381	1851	1809	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	Value6	
+Med bill help received minimum	BillHelpMin	N216	N216	N216	N216	N216	N/A	N/A	N/A	N/A	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	
+Med bill help received maximum	BillHelpMax	N217	N217	N217	N217	N217	N/A	N/A	N/A	N/A	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	Value5	
+How pay for large medical bills?	HowPayLargeBills	N219M1	N219M1	N219M1	N219M1	N219M1	2659M1	2382M1	N/A	N/A	HowPayBig	HowPayBig	HowPayBig	HowPayBig	HowPayBig	HowPayBig	HowPayBig	HowPayBig	HowPayBig	
+Health status self report	HealthStatus	C001	C001	C001	C001	C001	1226	1097	769	769	Health	Health	Health	Health	Health	Health	Health	Health	Health	
+Health better or worse than before?	HealthChange	C002	C002	C002	C002	C002	1229	1100	772	772	BetWorse	BetWorse	BetWorse	BetWorse	BetWorse	BetWorse	BetWorse	BetWorse	BetWorse	
+Have high blood pressure?	HaveHighBP	C005	C005	C005	C005	C005	1238	1109	781	781	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Taking medication for blood pressure?	TakeRX4HighBP	C006	C006	C006	C006	C006	1239	1110	782	782	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Is blood pressure under control?	BPUnderControl	C008	C008	C008	C008	C008	1241	1112	784	784	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have diabetes?	HaveDiabetes	C010	C010	C010	C010	C010	1245	1116	788	788	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Taking oral diabetes medication?	TakeRX4DiabOral	C011	C011	C011	C011	C011	1248	1117	789	789	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Taking insulin?	TakeRXInsulin	C012	C012	C012	C012	C012	1249	1118	790	790	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Is diabetes under control?	DiabUnderControl	C015	C015	C015	C015	C015	1252	1121	793	793	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have cancer?	HaveCancer	C018	C018	C018	C018	C018	1262	1129	801	801	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Have new non-skin cancer?	HaveNewCancer	C024	C024	C024	C024	C024	1267	1134	806	806	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have lung condition?	HaveLungCond	C030	C030	C030	C030	C030	1279	1146	818	818	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Taking medication for lung condition?	TakeRX4Lung	C032	C032	C032	C032	C032	1284	1151	823	823	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Does lung condition limit activities?	LungCondLimitAct	C035	C035	C035	C035	C035	1287	1154	826	826	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have heart condition?	HaveHeartCond	C036	C036	C036	C036	C036	1289	1156	828	828	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Taking medication for heart condition?	TakeRX4Heart	C037	C037	C037	C037	C037	1290	1157	829	829	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Had heart attack in past two years?	RecentHeartAtk	C040	C040	C040	C040	C040	1295	1162	834	834	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Taking medication for heart attack?	TakeRX4HeartAtk	C042	C042	C042	C042	C042	1298	1165	837	837	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have angina or chest pains?	HaveAngina	C045	C045	C045	C045	C045	1301	1168	840	840	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Taking medication for angina?	TakeRX4Angina	C046	C046	C046	C046	C046	1302	1169	841	841	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Does angina limit activities?	AnginaLimitAct	C047	C047	C047	C047	C047	1303	1170	842	842	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have congestive heart failure?	HaveCongHeartFail	C048	C048	C048	C048	C048	1304	1171	843	843	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Taking medication for heart failure?	TakeRX4HeartFail	C050	C050	C050	C050	C050	1306	1173	845	845	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Has ever had a stroke?	HasHadStroke	C053	C053	C053	C053	C053	1309	1176	848	848	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Problems remaining because of stroke?	StrokeProblems	C055	C055	C055	C055	C055	1312	1179	851	851	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Taking medication for stroke?	TakeRX4Stroke	C060	C060	C060	C060	C060	1317	1184	856	856	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Had stroke in past two years?	RecentStroke	C062	C062	C062	C062	C062	1319	1186	858	858	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have psychiatric problems?	HavePsychProb	C065	C065	C065	C065	C065	1322	1189	861	861	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Take antidepressant drugs?	TakeRX4Depress	C068	C068	C068	C068	C068	1325	1192	864	864	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have memory problems?	HaveMemProb	N/A	C069	C069	C069	C069	1326	1193	N/A	N/A	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Taking medication for memory?	TakeRX4MemProb	C210	C210	N/A	N/A	N/A	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have arthritis?	HaveArthritis	C070	C070	C070	C070	C070	1327	1194	866	866	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Taking medication for arthritis?	TakeRX4Arthritis	C074	C074	C074	C074	C074	1331	1198	870	870	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Does arthritis limit activities?	ArthritisLimitAct	C075	C075	C075	C075	C075	1332	1199	871	871	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have osteoarthritis?	HaveOsteoArth	C219	C219	C219	C219	N/A	N/A	N/A	N/A	N/A	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Have rheumatoid arthritis?	HaveRheumArth	C220	C220	C220	C220	N/A	N/A	N/A	N/A	N/A	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Have gout or lupus?	HaveGoutLupus	C221	C221	C221	C221	N/A	N/A	N/A	N/A	N/A	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Have arthritis related to injury?	HaveInjuryArth	C222	C222	C222	C222	N/A	N/A	N/A	N/A	N/A	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Have shingles?	HaveShingles	C240	C240	N/A	N/A	N/A	N/A	N/A	N/A	N/A	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	DispYesNo	
+Number of bouts with shingles	ShinglesBouts	C241	C241	N/A	N/A	N/A	N/A	N/A	N/A	N/A	Value1	Value1	Value1	Value1	Value1	Value1	Value1	Value1	Value1	
+Worst pain rating of shingles	ShinglesMaxPain	C245	C245	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Has fallen recently	FallenRecently	C079	C079	C079	C079	C079	1339	1206	878	878	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Number of times fallen	NumFalls	C080	C080	C080	C080	C080	1340	1207	879	879	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	
+Serious injury in any falls?	InjuryFall	C081	C081	C081	C081	C081	1345	1212	884	884	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Lost any urine in past year?	LostAnyUrine	C087	C087	C087	C087	C087	1353	1220	892	892	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Days in past month lost urine	LostUrineDaysAmt	C088	C088	C088	C088	C088	1354	1221	893	893	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	
+Days lost urine relative to 5	LostUrineDaysgt5	C089	C089	C089	C089	C089	1355	1222	894	894	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Days lost urine relative to 15	LostUrineDaysgt15	C090	C090	C090	C090	C090	1356	1223	895	895	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+How much urine lost each time?	LostUrineHowMuch	C091	C091	C091	C091	C091	N/A	N/A	N/A	N/A	UrineAmt	UrineAmt	UrineAmt	UrineAmt	UrineAmt	UrineAmt	UrineAmt	UrineAmt	UrineAmt	
+Quality of eyesight with lenses	VisionQuality	C095	C095	C095	C095	C095	1361	1228	900	900	Health	Health	Health	Health	Health	Health	Health	Health	Health	
+Wear a hearing aid?	UseHearingAid	C102	C102	C102	C102	C102	1368	1235	907	907	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Quality of hearing (with aid)	HearingQuality	C103	C103	C103	C103	C103	1369	1236	908	908	Health	Health	Health	Health	Health	Health	Health	Health	Health	
+Often have pain?	HaveFreqPain	C104	C104	C104	C104	C104	1372	1239	911	911	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Severity of pain	PainSeverity	C105	C105	C105	C105	C105	1374	1241	912	912	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	*1996 coded differently
+Does pain limit activities?	PainLimitAct	C106	C106	C106	C106	C106	1375	1242	914	914	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Had flu shot?	HadFluShot	C109	C109	C109	C109	C109	1385	1252	924	919	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Had blood test for cholesterol?	HadCholTest	C110	C110	C110	C110	C110	1386	1253	925	920	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Had mammogram?	HadMammo	C112	C112	C112	C112	C112	1388	1255	927	926	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	
+Had pap smear?	HadPapSmear	C113	C113	C113	C113	C113	1389	1256	928	927	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	
+Had prostate exam?	HadProstateEx	C114	C114	C114	C114	C114	1390	1257	929	929	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	YesNoExam	
+How often do vigorous activity?	HowOftenVigAct	C223	C223	C223	C223	N/A	N/A	N/A	N/A	N/A	HowOften	HowOften	HowOften	HowOften	HowOften	HowOften	HowOften	HowOften	HowOften	
+How often do moderate activity?	HowOftenModAct	C224	C224	C224	C224	N/A	N/A	N/A	N/A	N/A	HowOften	HowOften	HowOften	HowOften	HowOften	HowOften	HowOften	HowOften	HowOften	
+How often do mild activity?	HowOftenMildAct	C225	C225	C225	C225	N/A	N/A	N/A	N/A	N/A	HowOften	HowOften	HowOften	HowOften	HowOften	HowOften	HowOften	HowOften	HowOften	
+Have persistent ankle swelling?	HaveAnkleSwell	C143	C143	C143	C143	C143	1437	1304	967	963	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have shortness of breath?	HaveShortBreath	C144	C144	C144	C144	C144	1438	1305	968	964	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have persistent dizziness?	HaveDizziness	C145	C145	C145	C145	C145	1439	1306	969	967	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have back problems?	HaveBackProb	C146	C146	C146	C146	C146	1440	1307	970	968	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have persistent headaches?	HaveHeadache	C147	C147	C147	C147	C147	1441	1308	971	969	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have severe fatigue?	HaveFatigue	C148	C148	C148	C148	C148	1442	1309	972	972	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Have persistent coughing?	HaveCoughing	C149	C149	C149	C149	C149	1443	1310	973	973	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Days spent in bed in last month	DaysInBed	C229	C229	C229	C229	N/A	2686	2388	1854	1812	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	
+Felt depressed for two weeks?	Depressed2Weeks	C150	C150	C150	C150	C150	1456	1323	1006	985	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Respondents current age	CurrentAge	A019	A019	A019	A019	A019	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Is living in nursing home	InNursingHome	A028	A028	A028	A028	A028	558	517	240	240	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Number of resident children	NumResChildren	A099	A099	A099	A099	A099	886	809	506	506	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Which cohort	WhichCohort	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	"* is in PR_H, now deleted"
+Sex	Sex	X060_R	X060_R	X060_R	X060_R	X060_R	490	469	374	210	Gender	Gender	Gender	Gender	Gender	Gender	Gender	Gender	Gender	
+Couple status	CoupleStatus	X065_R	X065_R	X065_R	X065_R	X065_R	37_1	37_1	375	674	Couple	Couple	Couple	Couple	Couple	Couple	Couple	Couple	Couple	
+Month born	MonthBorn	X004_R	X004_R	X004_R	X004_R	X004_R	950	968A	636	636A	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	
+Year born	YearBorn	X067_R	X067_R	X067_R	X067_R	X067_R	949	970A	638	638A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Random entry point for med cost	RandomEntryPt	N/A	N/A	N/A	N/A	N/A	122	122_1	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Total medical cost range (confusing)	TotalMedCostA	N/A	N/A	N/A	N/A	N/A	2660	2383	1841	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Total medical cost more than 5000?	TotalMedCostB	N/A	N/A	N/A	N/A	N/A	2661	2384	1842	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Total medical cost more than 1k or 25k?	TotalMedCostC	N/A	N/A	N/A	N/A	N/A	2683	2385	1843	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Total medical cost more than 100000?	TotalMedCostD	N/A	N/A	N/A	N/A	N/A	2684	2386	1844	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Total medical cost more than 500000?	TotalMedCostE	N/A	N/A	N/A	N/A	N/A	2685	2387	1845	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Difficulty walking several blocks?	DiffWalkBlocks	G001	G001	G001	G001	G001	2689	2391	1858	1834	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Difficulty jogging a mile?	DiffJogMile	G002	G002	G002	G002	G002	2690	2392	1861	1837	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Difficulty walking one block?	DiffWalk1Block	G003	G003	G003	G003	G003	2692	2394	1864	1840	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Difficulty sitting for two hours?	DiffSitting	G004	G004	G004	G004	G004	2695	2397	1867	1843	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Difficulty getting up from a chair?	DiffStanding	G005	G005	G005	G005	G005	2698	2400	1870	1846	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Difficulty climbing flights of stairs?	DiffStairs	G006	G006	G006	G006	G006	2701	2403	1873	1849	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Difficulty climbing one flight of stairs?	Diff1Stair	G007	G007	G007	G007	G007	2704	2406	1876	1852	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Difficulty stooping or kneeling?	DiffStooping	G008	G008	G008	G008	G008	2707	2409	1879	1855	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Difficulty reaching arms upward?	DiffReaching	G009	G009	G009	G009	G009	2710	2412	1882	1858	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Difficulty pushing living room chair?	DiffPushing	G010	G010	G010	G010	G010	2713	2415	1885	1861	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Difficulty carrying heavy grocery bag?	DiffCarrying	G011	G011	G011	G011	G011	2716	2418	1888	1864	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Difficulty picking up a dime?	DiffPickDime	G012	G012	G012	G012	G012	2719	2421	1891	1867	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Difficulty getting dressed?	DiffDressing	G014	G014	G014	G014	G014	2723	2425	1908	1884	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Ever get help getting dressed?	GetHelpDress	G015	G015	G015	G015	G015	2724	2426	1911	1887	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Difficulty walking across a room?	DiffCrossRoom	G016	G016	G016	G016	G016	2725	2427	1895	1871	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Use device when crossing a room?	UseDevCrossRoom	G017	G017	G017	G017	G017	2726	2428	1898	1874	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Ever get help crossing a room?	GetHelpCrossRoom	G020	G020	G020	G020	G020	2729	2431	1901	1877	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Difficulty bathing or showering?	DiffBathing	G021	G021	G021	G021	G021	2742	2444	1918	1894	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Ever get help showering?	GetHelpBathing	G022	G022	G022	G022	G022	2745	2447	1921	1897	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Difficulty cutting and eating food?	DiffEating	G023	G023	G023	G023	G023	2752	2454	1928	1904	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Ever get help eating?	GetHelpEating	G024	G024	G024	G024	G024	2755	2457	1931	1907	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Difficulty getting in/out of bed?	DiffWithBed	G025	G025	G025	G025	G025	2762	2464	1938	1914	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Use device to get in/out of bed?	UseDevWithBed	G026	G026	G026	G026	G026	2765	2467	1941	1917	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Ever get help to get in bed?	GetHelpWithBed	G029	G029	G029	G029	G029	2768	2470	1944	1920	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Difficulty using the toilet?	DiffToilet	G030	G030	G030	G030	G030	2775	2477	1951	1927	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Ever get help using the toilet?	GetHelpToilet	G031	G031	G031	G031	G031	2778	2480	1954	1930	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Difficulty using a map?	DiffUsingMap	G040	G040	G040	G040	G040	2851	2553	2027	2012	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Difficulty preparing a hot meal?	DiffCooking	G041	G041	G041	G041	G041	2860	2562	2036	2021	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+No hot meal due to health problem?	NoCookBCHealth	G042	G042	G042	G042	G042	2862	2564	2038	2023	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Ever get help preparing a hot meal?	GetHelpCooking	G043	G043	G043	G043	G043	2863	2565	2039	2024	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Difficulty shopping for groceries?	DiffShopping	G044	G044	G044	G044	G044	2865	2567	2041	2026	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+No groceries because of health prob?	NoShopBCHealth	G045	G045	G045	G045	G045	2867	2569	2043	2028	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Ever get help with groceries?	GetHelpShopping	G046	G046	G046	G046	G046	2868	2570	2044	2029	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Difficulty making phone calls?	DiffPhoning	G047	G047	G047	G047	G047	2870	2572	2046	2031	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+No phone because of health problem?	NoPhoneBCHealth	G048	G048	G048	G048	G048	2872	2574	2048	2033	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Ever get help making phone calls?	GetHelpPhoning	G049	G049	G049	G049	G049	2873	2575	2049	2034	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Difficulty taking medications?	DiffTakingRX	G050	G050	G050	G050	G050	2875	2577	2051	2036	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+No take meds b/c of health problem?	NoRXBCHealth	G052	G052	G052	G052	G052	2877	2579	2053	2038	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Ever get help taking medications?	GetHelpTakingRX	G053	G053	G053	G053	G053	2878	2580	2054	2039	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Ever get help with housework?	GetHelpHousework	G058	G058	G058	G058	G058	2915	2617	2091	2076	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Difficulty managing money?	DiffMoney	G059	G059	G059	G059	G059	2916	2618	2093	2099	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	ActYesNo	
+Not manage money b/c of health prob?	NoMoneyBCHealth	G060	G060	G060	G060	G060	2917	2619	2094	2100	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Ever get help managing money?	GetHelpMoney	G061	G061	G061	G061	G061	2918	2620	2096	2102	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Self rating of hand strength	HandStrength	G208	G208	G208	N/A	N/A	N/A	N/A	N/A	N/A	Strength	Strength	Strength	Strength	Strength	Strength	Strength	Strength	Strength	
+How often become short of breath?	ShortBreathFreq	G209	G209	G209	N/A	N/A	N/A	N/A	N/A	N/A	HowOftenB	HowOftenB	HowOftenB	HowOftenB	HowOftenB	HowOftenB	HowOftenB	HowOftenB	HowOftenB	
+How often difficulty with balance?	DiffBalanceFreq	G210	G210	G210	N/A	N/A	N/A	N/A	N/A	N/A	HowOftenB	HowOftenB	HowOftenB	HowOftenB	HowOftenB	HowOftenB	HowOftenB	HowOftenB	HowOftenB	
+Current employment status?	EmpStatus	J005M1	J005M1	J005M1	J005M1	J005M1	3365M1	3115M1	2611M1	2626M1	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	
+Consider self retired?	IsRetired	J578	J578	J578	J578	J578	3859	3570	3039	3130	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	YesNo	
+Participate in vigorous exercise?	DoesExercise	N/A	N/A	N/A	N/A	C115	1395	1262	934	934	N/A	N/A	N/A	N/A	YesNo	YesNo	YesNo	YesNo	YesNo	
+Cigarettes per day	CigsPerDay	C118	C118	C118	C118	C118	1401	1268	943	943	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	
+Packs of cigs per day	PacksPerDay	C119	C119	C119	C119	C119	1402	1269	944	944	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	
+Days a week with drinking?	DaysWeekDrink	C129	C129	C129	C129	C129	1416	1283	950	950	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	Value3	
+Drinks per day when drinking?	DrinksPerDay	C130	C130	C130	C130	C130	1417	1284	951	951	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	Value2	

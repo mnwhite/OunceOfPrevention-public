@@ -1,0 +1,171 @@
+Text	Name	2010	2008	2006	2004	2002	2000	1998		
+Household ID number (original)	HHID	HHID	HHID	HHID	HHID	HHID	HHID	HHID		
+Sub-household ID number	SUBHH	SUBHH	SUBHH	SUBHH	SUBHH	SUBHH	SUBHH	SUBHH		
+Person number	PN	PN	PN	PN	PN	PN	PN	PN		
+Covered by Medicare now?	HaveMedicareA	N001	N001	N001	N001	N001	2585	2560		
+Have Medicare Part B?	HaveMedicareB	N004	N004	N004	N004	N004	2587	2561		
+Covered by Medicaid recently?	HadMedicaid	N005	N005	N005	N005	N005	2588	2562		
+Covered by Medicaid now?	HaveMedicaid	N006	N006	N006	N006	N006	2589	2563		
+Covered by military plan now?	HaveChampus	N007	N007	N007	N007	N007	2598	2572		
+Medicare by HMO?	MedicareByHMO	N009	N009	N009	N009	N009	2601	2575		
+HMO cover drugs?	HMOCoverDrugs	N351	N351	N351	N351	N/A	N/A	N/A		
+HMO premiums amount	HMOPremAmt	N014	N014	N014	N014	N014	2605	2579		
+HMO premiums minimum	HMOPremMin	N015	N015	N015	N015	N015	N/A	N/A		
+HMO premiums maximum	HMOPremMax	N016	N016	N016	N016	N016	N/A	N/A		
+HMO premiums period	HMOPremPer	N018	N018	N018	N018	N018	2606	2580		
+Have Medicare Part D?	HaveMedicareD	N352	N352	N352	N/A	N/A	N/A	N/A		
+Have other prescription coverage? 	HaveDrugCover	N/A	N/A	N/A	N/A	N/A	N/A	N/A		
+Number of other insurance plans	NumPrivPlans	N023	N023	N023	N023	N023	N/A	N/A		
+Is plan 1 or Medicare primary?	Plan1Primary	N025_1	N025_1	N025_1	N025_1	N025_1	N/A	N/A		
+Does plan 1 help with prescriptions?	Plan1PayRX	N032_1	N032_1	N032_1	N032_1	N032_1	2630	2602		
+Is plan 1 from current employer?	Plan1CurEmp	N033_1	N033_1	N033_1	N033_1	N033_1	2616	N/A		
+Is plan 1 from former employer?	Plan1ForEmp	N034_1	N034_1	N034_1	N034_1	N/A	N/A	N/A		
+Is plan 1 from spouses cur employer?	Plan1CurSpEmp	N035_1	N035_1	N035_1	N035_1	N035_1	N/A	N/A		
+Is plan 1 from spouses fmr employer?	Plan1ForSpEmp	N036_1	N036_1	N036_1	N036_1	N036_1	N/A	N/A		
+How plan 1 was purchased	Plan1HowPurch	N037_1	N037_1	N037_1	N037_1	N037_1	N/A	N/A		
+Pay all/some/none premiums on plan 1	Plan1PremPay	N039_1	N039_1	N039_1	N039_1	N039_1	2619	2591		
+Premiums paid for plan 1 amount	Plan1PremAmt	N040_1	N040_1	N040_1	N040_1	N040_1	2620	2592		
+Premiums paid period (2000 and before)	Plan1PremPer	N/A	N/A	N/A	N/A	N/A	2621	2593		
+Premiums paid for plan 1 minimum	Plan1PremMin	N041_1	N041_1	N041_1	N041_1	N041_1	N/A	N/A		
+Premiums paid for plan 1 maximum	Plan1PremMax	N042_1	N042_1	N042_1	N042_1	N042_1	N/A	N/A		
+Plan 1 is Medigap (2000 and before)	Plan1Medigap	N/A	N/A	N/A	N/A	N/A	2623	2595		
+Who else covered by plan 1 (first)?	Plan1WhoCoverA	N/A	N/A	N/A	N/A	N/A	N/A	N/A		
+Who else covered by plan 1 (second)?	Plan1WhoCoverB	N/A	N/A	N/A	N/A	N/A	N/A	N/A		
+Who else covered by plan 1 (third)?	Plan1WhoCoverC	N/A	N/A	N/A	N/A	N/A	N/A	N/A		
+Is plan 1 an HMO?	Plan1IsHMO	N052_1	N052_1	N052_1	N052_1	N052_1	2625	2597		
+Plan 1 have a doctor network?	Plan1DocNetwork	N055_1	N055_1	N055_1	N055_1	N055_1	2626	2598		
+Plan 1 pay for outside network care?	Plan1PayOutNtwk	N056_1	N056_1	N056_1	N056_1	N056_1	2627	2599		
+How plan 1 copays on doc visits if HMO	Plan1HowPayDoc	N/A	N/A	N/A	N/A	N/A	2628	2600		
+Does plan 2 help with prescriptions?	Plan2PayRX	N032_2	N032_2	N032_2	N032_2	N032_2	2648	2615		
+Is plan 2 from current employer?	Plan2CurEmp	N033_2	N033_2	N033_2	N033_2	N033_2	N/A	N/A		
+Is plan 2 from former employer?	Plan2ForEmp	N034_2	N034_2	N034_2	N034_2	N/A	N/A	N/A		
+Is plan 2 from spouses cur employer?	Plan2CurSpEmp	N035_2	N035_2	N035_2	N035_2	N035_2	N/A	N/A		
+Is plan 2 from spouses fmr employer?	Plan2ForSpEmp	N036_2	N036_2	N036_2	N036_2	N036_2	N/A	N/A		
+How plan 2 was purchased	Plan2HowPurch	N037_2	N037_2	N037_2	N037_2	N037_2	N/A	N/A		
+Pay all/some/none premiums on plan 2	Plan2PremPay	N039_2	N039_2	N039_2	N039_2	N039_2	2635	2611		
+Premiums paid for plan 2 amount	Plan2PremAmt	N040_2	N040_2	N040_2	N040_2	N040_2	2636	2612		
+Premiums paid period (2000 and before)	Plan2PremPer	N/A	N/A	N/A	N/A	N/A	2637	2613		
+Premiums paid for plan 2 minimum	Plan2PremMin	N041_2	N041_2	N041_2	N041_2	N041_2	N/A	N/A		
+Premiums paid for plan 2 maximum	Plan2PremMax	N042_2	N042_2	N042_2	N042_2	N042_2	N/A	N/A		
+Plan 2 is Medigap (2000 and before)	Plan2Medigap	N/A	N/A	N/A	N/A	N/A	2634	2610		
+Who else covered by plan 2 (first)?	Plan2WhoCoverA	N/A	N/A	N/A	N/A	N/A	N/A	N/A		
+Who else covered by plan 2 (second)?	Plan2WhoCoverB	N/A	N/A	N/A	N/A	N/A	N/A	N/A		
+Who else covered by plan 2 (third)?	Plan2WhoCoverC	N/A	N/A	N/A	N/A	N/A	N/A	N/A		
+Is plan 2 an HMO?	Plan2IsHMO	N052_2	N052_2	N052_2	N052_2	N052_2	N/A	N/A		
+plan 2 have a doctor network?	Plan2DocNetwork	N055_2	N055_2	N055_2	N055_2	N055_2	N/A	N/A		
+plan 2 pay for outside network care?	Plan2PayOutNtwk	N056_2	N056_2	N056_2	N056_2	N056_2	N/A	N/A		
+Total number of insurance plans	TotalInsPlans	N090	N090	N090	N090	N090	N/A	N/A		
+Have long term care insurance?	HaveLTCIns	N071	N071	N071	N071	N071	2700	2664		
+Which plan has LTC?	WhichPlanLTC	N073	N073	N073	N073	N073	N/A	N/A		
+Premium for LTC insurance amount	LTCPremAmt	N079	N079	N079	N079	N079	2704	2668		
+Premium for LTC insurance minimum	LTCPremMin	N080	N080	N080	N080	N080	N/A	N/A		
+Premium for LTC insurance maximum	LTCPremMax	N081	N081	N081	N081	N081	N/A	N/A		
+Premium for LTC insurance period	LTCPremPer	N083	N083	N083	N083	N083	2705	2669		
+Ever without health insurance?	EverWithoutIns	N091	N091	N091	N091	N091	2678	2642		
+Confirm no health insurance now?	NoHealthInsNow	N342	N342	N342	N/A	N/A	2686	2651		
+Have you stayed in hospital overnight?	StayInHosp	N099	N099	N099	N099	N099	1739	1728		
+Number of stays in hospital	HospNumStays	N100	N100	N100	N100	N100	1740	1729		
+Number of nights spent in hospital	HospNumNights	N101	N101	N101	N101	N101	1741	1730		
+How much of hosp stay covered by ins?	HospCoverByIns	N102	N102	N102	N102	N102	1746	1735		
+Out of pocket hospital bills amount	HospOOPAmt	N106	N106	N106	N106	N106	N/A	N/A		
+Out of pocket hospital bills minimum	HospOOPMin	N107	N107	N107	N107	N107	N/A	N/A		
+Out of pocket hospital bills maximum	HospOOPMax	N108	N108	N108	N108	N108	N/A	N/A		
+Ever stay in long term care?	StayInLTC	N114	N114	N114	N114	N114	1754	1743		
+Number of stays in long term care	LTCNumStays	N115	N115	N115	N115	N115	1755	1744		
+Number of nights spent in LTC	LTCNumNights	N116	N116	N116	N116	N116	1756	1745		
+Number of months spent in LTC	LTCNumMonths	N117	N117	N117	N117	N117	1757	1746		
+How much of LTC stay covered by ins?	LTCCoverByIns	N118	N118	N118	N118	N118	1759	1748		
+Out of pocket LTC bills amount	LTCOOPAmt	N119	N119	N119	N119	N119	1760	1749		
+Out of pocket LTC bills minimum	LTCOOPMin	N120	N120	N120	N120	N120	N/A	N/A		
+Out of pocket LTC bills maximum	LTCOOPMax	N121	N121	N121	N121	N121	N/A	N/A		
+Hosp/LTC more than 5000?	LTCOOPgt5000	N/A	N/A	N/A	N/A	N/A	1761	1750		
+Hosp/LTC more than 10000?	LTCOOPgt10000	N/A	N/A	N/A	N/A	N/A	1762	1751		
+Hosp/LTC more than 20000?	LTCOOPgt20000	N/A	N/A	N/A	N/A	N/A	1763	1752		
+Hosp/LTC more than 50000?	LTCOOPgt50000	N/A	N/A	N/A	N/A	N/A	1764	1753		
+Hosp/LTC more than 10000?	LTCOOPgt10000a	N/A	N/A	N/A	N/A	N/A	1765	1754		
+Hosp/LTC more than 5000?	LTCOOPgt5000a	N/A	N/A	N/A	N/A	N/A	1766	1755		
+Hosp/LTC more than 500?	LTCOOPgt500	N/A	N/A	N/A	N/A	N/A	1767	1756		
+Surg/doc more than 500?	SgDenDocgt500	N/A	N/A	N/A	N/A	N/A	1801	1785		
+Surg/doc more than 1000?	SgDenDocgt1000	N/A	N/A	N/A	N/A	N/A	1802	1786		
+Surg/doc more than 5000?	SgDenDocgt5000	N/A	N/A	N/A	N/A	N/A	1803	1787		
+Surg/doc more than 20000?	SgDenDocgt20000	N/A	N/A	N/A	N/A	N/A	1804	1788		
+Surg/doc more than 1000?	SgDenDocgt1000a	N/A	N/A	N/A	N/A	N/A	1805	1789		
+Surg/doc more than 500?	SgDenDocgt500a	N/A	N/A	N/A	N/A	N/A	1806	1790		
+Surg/doc more than 200?	SgDenDocgt200	N/A	N/A	N/A	N/A	N/A	1807	1791		
+Number other doctor consultations	DocVisNum	N147	N147	N147	N147	N147	1789	1778		
+Doctor visits relative to 20?	DocVisgt20	N148	N148	N148	N148	N148	N/A	N/A		
+Doctor visits relative to 5?	DocVisgt5	N149	N149	N149	N149	N149	N/A	N/A		
+Doctor visits relative to 1?	DocVisgt1	N150	N150	N150	N150	N150	N/A	N/A		
+Doctor visits relative to 50?	DocVisgt50	N151	N151	N151	N151	N151	N/A	N/A		
+How much of doc visits covered by ins?	DocVisCoverByIns	N152	N152	N152	N152	N152	1795	1779		
+Out of pocket doc visits amount	DocVisOOPAmt	N156	N156	N156	N156	N156	1800	1784		
+Out of pocket doc visits minimum	DocVisOOPMin	N157	N157	N157	N157	N157	N/A	N/A		
+Out of pocket doc visits maximum	DocVisOOPMax	N158	N158	N158	N158	N158	N/A	N/A		
+Regularly take prescription drugs?	TakeRXDrugs	N175	N175	N175	N175	N175	1808	1792		
+How much of drugs covered by ins?	RXCoverByIns	N176	N176	N176	N176	N176	1809	1793		
+Out of pocket drugs/month amount	RXOOPAmt	N180	N180	N180	N180	N180	1810	1794		
+Out of pocket drugs/month minimum	RXOOPMin	N181	N181	N181	N181	N181	N/A	N/A		
+Out of pocket drugs/month maximum	RXOOPMax	N182	N182	N182	N182	N182	N/A	N/A		
+Prescriptions more than 10?	RXOOPgt10	N/A	N/A	N/A	N/A	N/A	1811	1795		
+Prescriptions more than 20?	RXOOPgt20	N/A	N/A	N/A	N/A	N/A	1812	1796		
+Prescriptions more than 100?	RXOOPgt100	N/A	N/A	N/A	N/A	N/A	1813	1797		
+Prescriptions more than 500?	RXOOPgt500	N/A	N/A	N/A	N/A	N/A	1814	1798		
+Prescriptions more than 20?	RXOOPgt20a	N/A	N/A	N/A	N/A	N/A	1815	1799		
+Prescriptions more than 10?	RXOOPgt10a	N/A	N/A	N/A	N/A	N/A	1816	1800		
+Prescriptions more than 5?	RXOOPgt5	N/A	N/A	N/A	N/A	N/A	1817	1801		
+Received home medical care?	HoMedVisit	N189	N189	N189	N189	N189	1820	1804		
+How much of home care covered by ins?	HoMedCoverByIns	N190	N190	N190	N190	N190	1822	1806		
+Out of pocket home care amount	HoMedOOPAmt	N194	N194	N194	N194	N194	1827	1811		
+Out of pocket home care minimum	HoMedOOPMin	N195	N195	N195	N195	N195	N/A	N/A		
+Out of pocket home care maximum	HoMedOOPMax	N196	N196	N196	N196	N196	N/A	N/A		
+Home care more than 5000?	HoMedOOPgt5000	N/A	N/A	N/A	N/A	N/A	1828	1812		
+Home care more than 10000?	HoMedOOPgt10000	N/A	N/A	N/A	N/A	N/A	1829	1813		
+Home care more than 20000?	HoMedOOPgt20000	N/A	N/A	N/A	N/A	N/A	1830	1814		
+Home care more than 1000?	HoMedOOPgt1000	N/A	N/A	N/A	N/A	N/A	1831	1815		
+Home care more than 500?	HoMedOOPgt500	N/A	N/A	N/A	N/A	N/A	1832	1816		
+Used other special facility?	SpecFacVisit	N202	N202	N202	N202	N202	1824	1808		
+Out of pocket special facility amount	SpecFacOOPAmt	N239	N239	N239	N239	N239	N/A	N/A		
+Out of pocket special facility minimum	SpecFacOOPMin	N246	N246	N246	N246	N246	N/A	N/A		
+Out of pocket special facility maximum	SpecFacOOPMax	N247	N247	N247	N247	N247	N/A	N/A		
+Assigned hospital costs	HospAssigned	N204	N204	N204	N204	N204	N/A	N/A		
+Assigned long term care  costs	LTCAssigned	N205	N205	N205	N205	N205	1842	N/A		
+Assigned outpatient surgery costs	OutSurgAssigned	N/A	N/A	N/A	N/A	N/A	1843	N/A		
+Assigned doctor visits costs	DocVisAssigned	N207	N207	N207	N207	N207	N/A	N/A		
+Assigned dentist costs	DentistAssigned	N/A	N/A	N/A	N/A	N/A	N/A	N/A		
+Assigned prescription costs	RXAssigned	N209	N209	N209	N209	N209	1844	N/A		
+Assigned home care costs	HoMedAssigned	N210	N210	N210	N210	N210	1845	N/A		
+Assigned total out of pocket costs	TotalOOPAssigned	N211	N211	N211	N211	N211	1846	N/A		
+Received help with paying med bills?	RecdHelpWithBills	N212	N212	N212	N212	N212	1848	1831		
+Med bill help received amount	BillHelpAmt	N215	N215	N215	N215	N215	1852	1835		
+Med bill help received minimum	BillHelpMin	N216	N216	N216	N216	N216	N/A	N/A		
+Med bill help received maximum	BillHelpMax	N217	N217	N217	N217	N217	N/A	N/A		
+How pay for large medical bills?	HowPayLargeBills	N219M1	N219M1	N219M1	N219M1	N219M1	1853M1	1836M1		
+Have cancer?	HaveCancer	C018	C018	C018	C018	C018	1174	1129		
+Have lung condition?	HaveLungCond	C030	C030	C030	C030	C030	1191	1146		
+Have heart condition?	HaveHeartCond	C036	C036	C036	C036	C036	1201	1156		
+Taking medication for heart condition?	TakeRX4Heart	C037	C037	C037	C037	C037	1202	1157		
+Had heart attack in past two years?	RecentHeartAtk	C040	C040	C040	C040	C040	1207	1162		
+Have congestive heart failure?	HaveCongHeartFail	C048	C048	C048	C048	C048	1216	1171		
+Has ever had a stroke?	HasHadStroke	C053	C053	C053	C053	C053	1221	1176		
+Had stroke in past two years?	RecentStroke	C062	C062	C062	C062	C062	1223	1186		
+Have memory problems?	HaveMemProb	C069	C069	C069	C069	C069	1240	1216		
+Has fallen recently	FallenRecently	C079	C079	C079	C079	C079	1230	1206		
+Number of times fallen	NumFalls	C080	C080	C080	C080	C080	1231	1207		
+Serious injury in any falls?	InjuryFall	C081	C081	C081	C081	C081	1236	1212		
+Often have pain?	HaveFreqPain	C104	C104	C104	C104	C104	1246	1239		
+Severity of pain	PainSeverity	C105	C105	C105	C105	C105	1248	1241		
+Ever get help getting dressed?	GetHelpDress	G015	G015	G015	G015	G015	1872	1852		
+Ever get help crossing a room?	GetHelpCrossRoom	G020	G020	G020	G020	G020	1879	1859		
+Ever get help showering?	GetHelpBathing	G022	G022	G022	G022	G022	1894	1881		
+Ever get help eating?	GetHelpEating	G024	G024	G024	G024	G024	1909	1896		
+Ever get help to get in bed?	GetHelpWithBed	G029	G029	G029	G029	G029	1924	1911		
+Ever get help using the toilet?	GetHelpToilet	G031	G031	G031	G031	G031	1942	1929		
+Ever get help preparing a hot meal?	GetHelpCooking	G043	G043	G043	G043	G043	2002	2010		
+Ever get help with groceries?	GetHelpShopping	G046	G046	G046	G046	G046	2012	2020		
+Ever get help making phone calls?	GetHelpPhoning	G049	G049	G049	G049	G049	2022	2030		
+Ever get help taking medications?	GetHelpTakingRX	G053	G053	G053	G053	G053	2032	2040		
+Ever get help with housework?	GetHelpHousework	N/A	N/A	N/A	N/A	N/A	N/A	N/A		
+Ever get help managing money?	GetHelpMoney	G061	G061	G061	G061	G061	2077	2084		
+Year of death	DeathYear	A123	A123	A123	A123	A123	522	490		
+Month of death	DeathMonth	A121	A121	A121	A121	A121	520	488		
+Was the death expected?	DeathExpected	A131	A131	A131	A131	A131	530	496		

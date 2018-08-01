@@ -1,0 +1,21 @@
+Description	Name	2010	2008	2006	2004	2002	2000	1998	1996	1995
+Household ID number (original)	HHID	hhid	hhid	hhid	HHID	HHID	HHID	HHID	HHID	HHID
+Sub-household ID number	SUBHH	subhh	subhh	subhh	JSUBHH	HSUBHH	GSUBHH	FSUBHH	ESUBHH	DSUBHH
+Person number	PN	pn	pn	pn	N/A	N/A	N/A	N/A	N/A	N/A
+Total household wealth	TotalWealth	h10atotb	h9atotb	h8atotb	JNETWRTH	HNETWRTH	GNETWRTH	FNETWRTH	EASSETS	DNETWRTH
+Primary residence equity	FirstHomeEqty	h10atoth	h9atoth	h8atoth	JHOME1	HHOME1	GHOME1	FHOME1	EHOME1	DHOME1
+Primary residence value	FirstHomeVal	h10ahous	h9ahous	h8ahous	JH020X	HH020X	G3078X	F2760X	E2246X	D2246X
+Primary residence mortgage	FirstHomeMort	h10amort	h9amort	h8amort	JH032X	HH032X	G3091X	F2773X	E2256X	D2256X
+Secondary residence equity	SecondHomeEqty	h10anethb	h9anethb	h8anethb	JHOME2	HHOME2	GHOME2	FHOME2	EHOME2	DHOME2
+Secondary residence value	SecondHomeVal	h10ahoub	h9ahoub	h8ahoub	JH166X	HH166X	G3268X	F2950X	E2435X	D2435X
+Secondary residence mortgage	SecondHomeMort	h10amrtb	h9amrtb	h8amrtb	JH171X	HH171X	G3275X	F2957X	E2445X	D2445X
+Trusts (not included in wealth)	TrustsValue	h10atrst	h9atrst	h8atrst	JQ467X	HQ467X	G5833X	F5473X	E4713X	D4712X
+Total household income	TotalIncome	h10itot	h9itot	h8itot	JHHINC	HHHINC	GHHINC	FHHINC	EHHINC	D4642X
+Respondents SSDI benefits	RespSSDI	r10issdi	r9issdi	r8issdi	N/A	N/A	N/A	N/A	N/A	N/A
+Respondents unemp benefits	RespUnemp	r10iunwc	r9iunwc	r8iunwc	JQ066X	HQ066X	G5143X	F4704X	E3944X	N/A
+Spouses SSDI benefits	SpouseSSDI	s10issdi	s9issdi	s8issdi	N/A	N/A	N/A	N/A	N/A	N/A
+Spouses unemp benefits	SpouseUnemp	s10iunwc	s9iunwc	s8iunwc	JQ070X	HQ070X	G5151X	F4712X	E3952X	N/A
+Household welfare	Welfare	ih10welf	ih9welf	ih8welf	JQ115X	HQ115X	G5241X	F4798X	E4038X	D3929X
+Household foodstamps (monthly bef 2004)	Foodstamps	ih10food	ih9food	ih8food	JQ410X	HQ410X	N/A	N/A	N/A	N/A
+Respondents workers comp (not in 2006-8)	RespWorkComp	N/A	N/A	N/A	JQ076X	HQ076X	G5162X	F4723X	E3963X	N/A
+Spouses workers comp (not in 2006-8)	SpouseWorkComp	N/A	N/A	N/A	JQ080X	HQ080X	G5173X	F4734X	E3974X	N/A
